@@ -3,7 +3,7 @@
 <div>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&theme=dark"/>
 
-### 🧰 Languages and technologies
+### 🧰 Languages and frameworks
   <hr>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="50" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotNet" height="50" style="vertical-align:top; margin:4px">
