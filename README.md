@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&theme=dark"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&theme=dark"/>
 
-### Languages 🧰
+### 🧰 Languages 
+  <hr>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="42" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="42" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="42"        style="vertical-align:top; margin:4px">
