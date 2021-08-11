@@ -4,7 +4,7 @@
  
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&layout=compact"/>
 
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&theme=dark"/>
+  
 
 ### 🧰 Languages and frameworks
   <hr>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&theme=dark"/>
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotNetCore" height="40" style="vertical-align:top; margin:4px">
   
