@@ -15,7 +15,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotNetCore" height="47" style="vertical-align:top; margin:4px">
  
 ### 🧰🌱Learning
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactN" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactN" height="45" style="vertical-align:top; margin:4px">
  
 
 </div>
