@@ -17,8 +17,9 @@
  
 ### 🧰🌱Learning
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactN" height="47" style="vertical-align:top; margin:4px">
+ 
  <hr>
- ###🌱
+ ##
  <img src= "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="47" style="vertical-align:top; margin:4px">
  
 
