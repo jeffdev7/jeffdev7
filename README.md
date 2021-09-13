@@ -20,8 +20,7 @@
  
  <hr>
  ###🌱⚡Learning just for fun
- 
-
+<hr>
  <img src= "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="47" style="vertical-align:top; margin:4px">
  
 
