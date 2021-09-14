@@ -7,7 +7,7 @@
   
 
 ### 🧰 Languages and frameworks
-  <hr>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="47" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotNet" height="47" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotNetCore" height="47" style="vertical-align:top; margin:4px">
