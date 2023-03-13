@@ -1,6 +1,6 @@
 ### Hi there! 👋
 <div>
-  <img height="350em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&layout=compact&theme=dark/&hide=css,html,hack,scss,smalltalk,Qmake,handleBars"/>
+  <img height="350em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&layout=compact&theme=dark/&hide=css,html,hack,scss,smalltalk,Qmake,handleBars,php"/>
   
  
 ### 🧰 Tool belt
