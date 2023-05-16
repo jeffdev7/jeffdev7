@@ -5,7 +5,7 @@
   <a target='_blank' href="https://www.linkedin.com/in/alves-jefferson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-     <a target='_blank' href="https://instagram.com/jago_dev/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+     <a target="_blank" href="https://instagram.com/jago_dev/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
  
 ### 🧰 Tool belt
