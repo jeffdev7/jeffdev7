@@ -2,7 +2,7 @@
 <div>
   <img height="350em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&layout=compact&theme=dark/&hide=css,html,hack,scss,smalltalk,Qmake,handleBars,php,python,c,java"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/alves-jefferson/">
+  <a target='_blank href="https://www.linkedin.com/in/alves-jefferson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
      <a target='_blank' href="https://instagram.com/jago_dev/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
