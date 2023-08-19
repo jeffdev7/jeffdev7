@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
      <a target="_blank" href="https://instagram.com/jago_dev/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+   <img height="300em" width="350em" src="https://github-readme-stats.vercel.app/api?username=jeffdev7&show_icons=true&theme=transparent&hide=contribs,issues,stars"/>
 </div>
  
 ### 🧰 Tool belt
@@ -17,6 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  height="60" width="80" style="vertical-align:top; margin:2px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  height="60" width="70" style="vertical-align:top; margin:2px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" height="60" width="70" style="vertical-align:top; margin:2px"/>
+
           
 
 <!-- ### 🧰🌱Learning
