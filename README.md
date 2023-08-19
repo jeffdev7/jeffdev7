@@ -14,7 +14,7 @@
 </div>
   <img height="300em" width="350em" src="https://github-readme-stats.vercel.app/api?username=jeffdev7&show_icons=true&theme=transparent&hide=contribs,issues,stars"/>
   <br/>
-### 🧰 Tool belt
+### 🧰 Stack
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotNetCore" height="60" style="vertical-align:top; margin:4px"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="47" style="vertical-align:top; margin:4px">  
