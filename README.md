@@ -1,5 +1,6 @@
-  <img height="300em" width="350em" src="https://github-readme-stats.vercel.app/api?username=jeffdev7&show_icons=true&theme=transparent&hide=contribs,issues,stars"/>
+
 <div style="text-align: center;">
+    <img height="300em" width="350em" src="https://github-readme-stats.vercel.app/api?username=jeffdev7&show_icons=true&theme=transparent&hide=contribs,issues,stars"/>
 <div style="display: flex; justify-content: center; align-items: flex-start; space-around:0">
  <img height="350em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&layout=compact&theme=dark/&hide=css,html,hack,scss,smalltalk,Qmake,handleBars,php,python,c,java"/>
 
