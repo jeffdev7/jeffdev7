@@ -1,10 +1,9 @@
+ <img height="350em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&layout=compact&theme=dark/&hide=css,html,hack,scss,smalltalk,Qmake,handleBars,php,python,c,java"/>
+      <img height="300em" width="350em" src="https://github-readme-stats.vercel.app/api?username=jeffdev7&show_icons=true&theme=transparent&hide=contribs,issues,stars"/>
+  
 <div style="text-align: center;">
 <div style="display: flex; justify-content: center; align-items: flex-start;">
-  <img height="350em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&layout=compact&theme=dark/&hide=css,html,hack,scss,smalltalk,Qmake,handleBars,php,python,c,java"/>
-  <div style="margin-top: 0; padding-top: 0">
-      <img height="300em" width="350em" src="https://github-readme-stats.vercel.app/api?username=jeffdev7&show_icons=true&theme=transparent&hide=contribs,issues,stars"/>
-  </div>
-  
+ 
 <div/>
   <div id="badges">
   <a target='_blank' href="https://www.linkedin.com/in/alves-jefferson/">
