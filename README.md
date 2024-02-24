@@ -18,7 +18,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="47" style="vertical-align:top; margin:4px">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="80" width="100" style="vertical-align:top; margin:2px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  height="60" width="80" style="vertical-align:top; margin:2px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  height="60" width="70" style="vertical-align:top; margin:2px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" height="60" width="70" style="vertical-align:top; margin:2px"/>
 
           
