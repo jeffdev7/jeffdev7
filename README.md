@@ -3,12 +3,12 @@
  <img height="350em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&layout=donut&theme=dark/&hide=css,html,hack,scss,smalltalk,Qmake,handleBars,php,python,c,java"/>
         <!-- <img height="300em" width="350em" src="https://github-readme-stats.vercel.app/api?username=jeffdev7&show_icons=true&theme=transparent&hide=contribs,issues,stars"/> -->
 <div/>
-  <div id="badges">
+  <!--<div id="badges">
   <a target='_blank' href="https://www.linkedin.com/in/alves-jefferson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
      <a target="_blank" href="https://instagram.com/jeff_techksi/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
+</div> -->
 <div>
 
 </div>
