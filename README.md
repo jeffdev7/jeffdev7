@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 <div style="display: flex; justify-content: center; align-items: flex-start; space-around:0">
- <img height="350em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&layout=donut&theme=dark/&hide=css,html,hack,scss,smalltalk,Qmake,handleBars,python,c,php"/>
+ <img height="350em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev7&layout=donut&theme=dark/&hide=css,html,hack,scss,smalltalk,Qmake,handleBars,python,c,php,java"/>
         <!-- <img height="300em" width="350em" src="https://github-readme-stats.vercel.app/api?username=jeffdev7&show_icons=true&theme=transparent&hide=contribs,issues,stars"/> -->
 <div/>
   <!--<div id="badges">
